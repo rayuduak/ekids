@@ -1,0 +1,16 @@
+Python:
+Web development
+software dev
+Math
+
+Its easy to understand read the program.
+
+What did cover?
+Introduction
+Comments
+Variables
+Assigning Variables
+Few data types
+Operations on Numbers
+Casting
+How to check python is installed and its version
